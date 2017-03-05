@@ -1,3 +1,19 @@
+# Compiled python files
+*.pyc
+
+# Folder view configuration files
+*.swp
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
 *.cache
 node_modules
 atom/.apm
@@ -30,8 +46,6 @@ tags
 # Ignore these files globally in this repo.
 #
 
-*.swp
-.DS_Store
 *~
 *.sublime-*
 *.d/localhost
