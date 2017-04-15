@@ -40,12 +40,15 @@ vim/sessions
 bin/subl
 tags
 
+=======
 #
 # dotphiles : https://github.com/dotphiles/dotphiles
 #
 # Ignore these files globally in this repo.
 #
 
+=======
+*.swp
 *~
 *.sublime-*
 *.d/localhost
