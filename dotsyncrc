@@ -21,9 +21,9 @@ dotsyncrc
 ack/ackrc
 #aptitude
 #bin:bin
-#ctags/ctags
+ctags/ctags
 #cmus
-#curl/curlrc
+curl/curlrc
 git/gitconfig
 git/gitignore
 git/gitattributes
@@ -44,8 +44,8 @@ git/gitk
 #ncmpcpp/config
 #ncmpcpp/error.log
 #postgresql/psqlrc
-#python/pythonrc
-#python/pylintrc
+python/pythonrc
+python/pylintrc
 #rpm/rpmmacros
 #ruby/irbrc
 #ruby/pryrc
@@ -61,12 +61,12 @@ git/gitk
 #subversion
 #task/task
 #task/taskrc
-#tmux/tmux.conf
+tmux/tmux.conf
 #tmux/tmuxinator
 #vim/dotvim:.vim
 #vim/vimrc
 #vim/gvimrc
-#wget/wgetrc
+wget/wgetrc
 #zsh/fasdrc
 #zsh/dotzsh:.zsh
 #zsh/zlogin
