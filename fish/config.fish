@@ -15,3 +15,14 @@ set -x -g PATH ~/anaconda3/bin $PATH ~/bin /usr/local/sbin
 
 # Source conda.fish
 source (conda info --root)/etc/fish/conf.d/conda.fish
+
+# Load my custom variables
+. $Home/.config/fish/custom/vars.fish
+
+# Load my custom path
+. $Home/.config/fish/custom/path.fish
+
+# Load my custom aliases
+. $Home/.config/fish/functions/alias.fish
+
+
