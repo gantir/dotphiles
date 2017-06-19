@@ -53,13 +53,13 @@
     whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
 
 [diff]
-    tool = vimdiff
+    tool = meld
 
 [difftool]
     prompt = false
 
 [merge]
-    tool = vimdiff
+    tool = meld
 
 [alias]
     # branch
